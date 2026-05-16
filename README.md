@@ -4,9 +4,9 @@
 📍 Abbottabad, Pakistan · 🎓 BS Artificial Intelligence — PAF-IAST (2024–Present)
 
 <p align="left">
-  <a href="https://linkedin.com/in/muhammad-owais-b66353391"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:muhammadowaisarshad721@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.behance.net/gallery/242522555/The-Creative-Edge-of-Owais"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/muhammad-owais-b66353391"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:muhammadowaisarshad721@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://www.behance.net/gallery/242522555/The-Creative-Edge-of-Owais"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" /></a>
 </p>
 
 [![Python](https://img.shields.io/badge/Python-%E2%9C%93-informational?logo=python)](https://www.python.org/)
