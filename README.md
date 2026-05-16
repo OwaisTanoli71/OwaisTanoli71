@@ -2,7 +2,12 @@
 
 **AI Engineer | Computer Vision | ML Pipelines | Freelance Designer**
 📍 Abbottabad, Pakistan · 🎓 BS Artificial Intelligence — PAF-IAST (2024–Present)
-🔗 [LinkedIn](https://linkedin.com/in/muhammad-owais-b66353391) · 📧 muhammadowaisarshad721@gmail.com · 💻 [GitHub](https://github.com/OwaisTanoli71)
+
+<p align="left">
+  <a href="https://linkedin.com/in/muhammad-owais-b66353391"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muhammadowaisarshad721@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.behance.net/gallery/242522555/The-Creative-Edge-of-Owais"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+</p>
 
 [![Python](https://img.shields.io/badge/Python-%E2%9C%93-informational?logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%E2%9C%93-informational?logo=tensorflow)](https://www.tensorflow.org/)
@@ -10,7 +15,6 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-%E2%9C%93-informational?logo=opencv)](https://opencv.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%E2%9C%93-informational?logo=streamlit)](https://streamlit.io/)
 [![Docker](https://img.shields.io/badge/Docker-%E2%9C%93-informational?logo=docker)](https://www.docker.com/)
-[![Behance](https://img.shields.io/badge/Behance-Portfolio-informational?logo=behance)](https://www.behance.net/gallery/242522555/The-Creative-Edge-of-Owais)
 
 ---
 
@@ -92,12 +96,12 @@ Alongside technical work, I bring 2+ years of **freelance graphic design** exper
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Currently Working On
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OwaisTanoli71&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisTanoli71&layout=compact&theme=github_dark&hide_border=true" />
-</div>
+- 🧠 Deepening expertise in Computer Vision and medical imaging pipelines
+- 🤖 Exploring LLM-based agentic systems and automation workflows
+- 📄 Expanding research work toward publication
+- 🎯 Open to **internships and collaborations** in AI/ML
 
 ---
 
