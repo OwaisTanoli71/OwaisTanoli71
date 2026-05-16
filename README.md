@@ -1,42 +1,113 @@
-<h1 align="center">Hi, I'm Muhammad Owais Arshad 👋</h1>
-<h3 align="center">BSAI Student @ PAF-IAST | Computer Vision | ML Engineer | Freelance Designer</h3>
+# Muhammad Owais Arshad
 
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad-owais-b66353391"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:muhammadowaisarshad721@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+**AI Engineer | Computer Vision | ML Pipelines | Freelance Designer**
+📍 Abbottabad, Pakistan · 🎓 BS Artificial Intelligence — PAF-IAST (2024–Present)
+🔗 [LinkedIn](https://linkedin.com/in/muhammad-owais-b66353391) · 📧 muhammadowaisarshad721@gmail.com · 💻 [GitHub](https://github.com/OwaisTanoli71)
 
----
-
-## 🧠 About Me
-- 🎓 Studying **BS Artificial Intelligence** at PAF-IAST, Haripur
-- 🔬 Working with **YOLOv11, SAM2, TensorFlow, Scikit-learn**
-- 🤖 Built an end-to-end **AI HR Screening Agent** (n8n + GPT-4) — 0 to interview in under 90 seconds
-- 🧬 Developed a **Brain Tumor Segmentation** pipeline achieving 95%+ detection accuracy
-- 🎨 2+ years of **Freelance Graphic Design** — Adobe Illustrator & Photoshop
-- 📄 Published an **IEEE-format research paper** on AI recruitment automation
+[![Python](https://img.shields.io/badge/Python-%E2%9C%93-informational?logo=python)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%E2%9C%93-informational?logo=tensorflow)](https://www.tensorflow.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%E2%9C%93-informational?logo=scikit-learn)](https://scikit-learn.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%E2%9C%93-informational?logo=opencv)](https://opencv.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-%E2%9C%93-informational?logo=streamlit)](https://streamlit.io/)
+[![Docker](https://img.shields.io/badge/Docker-%E2%9C%93-informational?logo=docker)](https://www.docker.com/)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-informational?logo=behance)](https://www.behance.net/gallery/242522555/The-Creative-Edge-of-Owais)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-| Project | Description | Tech |
+I am a BS Artificial Intelligence student at PAF-IAST, building end-to-end AI systems with a focus on **Computer Vision, Machine Learning, and Workflow Automation**. My work ranges from medical imaging pipelines and automated recruitment systems to classical regression and classification models — all documented, reproducible, and built to solve real problems.
+
+Alongside technical work, I bring 2+ years of **freelance graphic design** experience, giving me a practical edge in visual communication and professional presentation.
+
+---
+
+## 🔬 Research & Interests
+
+- **Computer Vision:** Object detection and segmentation using YOLOv11 and SAM2 for medical imaging applications
+- **Machine Learning:** Classification, regression, and deep learning pipelines with Scikit-learn and TensorFlow/Keras
+- **AI Automation:** Agentic workflow systems using n8n, GPT-4, and Google Workspace APIs
+- **Data Science:** EDA, feature engineering, and visualization with Pandas, Seaborn, and Matplotlib
+- **Embedded AI:** Sensor-based safety systems using Arduino and C++ firmware
+
+---
+
+## 💻 Key Projects
+
+| Project | Description | Link |
 |---|---|---|
-| [Brain Tumor Segmentation](https://github.com/OwaisTanoli71/Brain-Tumor-Segmentation-Using-Yolo11-SAM2) | MRI scan detection & segmentation pipeline | YOLOv11, SAM2, Streamlit |
-| [AI HR Screening Agent](https://github.com/OwaisTanoli71/ai-hr-screening-agent) | Full recruitment automation system | n8n, GPT-4, Google APIs |
-| [MNIST Classifier](https://github.com/OwaisTanoli71/MNIST-Classifier) | 97%+ accuracy digit recognition | Scikit-learn, Python |
-| [Wine Quality Prediction](https://github.com/OwaisTanoli71/Wine-Quality-Prediction) | Regression models with GridSearchCV | Pandas, Sklearn |
-| [CA Housing Prediction](https://github.com/OwaisTanoli71/California-Housing-ML-Project) | Deep learning real estate pipeline | TensorFlow, Keras |
+| **Brain Tumor Segmentation (YOLOv11 + SAM2)** | Medical imaging pipeline detecting Glioma, Meningioma, and Pituitary tumors from MRI scans with 95%+ accuracy. Deployed via Streamlit dashboard. | [View Project](https://github.com/OwaisTanoli71/Brain-Tumor-Segmentation-Using-Yolo11-SAM2) |
+| **AI HR Screening Agent** | 3-workflow end-to-end recruitment automation (n8n + GPT-4 + Google APIs) — CV to interview booking in under 90 seconds, zero human involvement. IEEE paper published. | [View Project](https://github.com/OwaisTanoli71/ai-hr-screening-agent) |
+| **MNIST Handwritten Digit Classifier** | 97%+ accuracy digit recognition using SGD and Random Forest with detailed error analysis and visualizations. | [View Project](https://github.com/OwaisTanoli71/MNIST-Classifier) |
+| **Wine Quality Prediction** | Regression pipeline (Linear, Ridge, Lasso) with GridSearchCV hyperparameter tuning and interactive notebook documentation. | [View Project](https://github.com/OwaisTanoli71/Wine-Quality-Prediction) |
+| **California Housing Price Prediction** | Deep learning pipeline for real estate price prediction with comprehensive EDA and feature engineering. | [View Project](https://github.com/OwaisTanoli71/California-Housing-ML-Project) |
+| **Gas Leakage Detection System** | Arduino + MQ-series sensor prototype with real-time LCD and buzzer alerts, C++ threshold-based firmware. | *Semester Project — PAF-IAST* |
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Skills
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white)
+- **Languages:** Python, C++, MySQL, HTML & CSS
+- **AI / ML:** TensorFlow, Keras, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
+- **Computer Vision:** YOLOv11, SAM2, image preprocessing, segmentation pipelines
+- **Automation:** n8n, GPT-4 API, Google Workspace APIs (Sheets, Gmail, Calendar)
+- **Tools:** Jupyter Notebook, Google Colab, Docker, Git/GitHub, Streamlit
+- **Design:** Adobe Photoshop, Adobe Illustrator — branding, identity systems, social media assets
+
+---
+
+## 🎓 Education
+
+- **BS Artificial Intelligence (2024–Present)** — PAF-IAST, Haripur, Pakistan
+- **Intermediate in Computer Science / HSSC (2023–2024)** — Tameer-i-Wattan Public School & College, Abbottabad
+- **Matriculation in Science / SSC (2021–2022)** — Wisdom House Public School & College, Abbottabad
+
+---
+
+## 💼 Experience
+
+- **Machine Learning Intern** — Arch Technologies, Islamabad *(Jun–Jul 2025, Remote)*
+  MNIST classification, housing price prediction, wine quality regression — all deployed with full EDA pipelines.
+
+- **Graphic Design Intern** — NextGen Learners, Islamabad *(Jul 2025, Remote)*
+  Full branding packages, vector illustrations, social media templates, photo editing.
+
+- **Freelance Graphic & Web Designer** — Self-Employed, Abbottabad *(Mar 2023–Present)*
+  Visual identity projects, logos, typography, and social media assets for diverse clients.
+  🎨 [View Design Portfolio](https://www.behance.net/gallery/242522555/The-Creative-Edge-of-Owais)
+
+- **Director of Graphic Design** — PAMUN '26, PAF-IAST *(Jan–Feb 2026)*
+  Led visual branding strategy for the university MUN event; designed 20+ standees, posters, and multi-channel social campaigns.
+
+---
+
+## 📜 Certifications
+
+- **Introduction to AI** — Google Cloud via Coursera *(May 2025)*
+- **AI For Everyone** — DeepLearning.AI via Coursera *(May 2025)*
+- **Management and Financial Accounting: Know Your Numbers 1** — Macquarie University via Coursera *(May 2025)*
+- **Advance Graphic Designing** — Digital's Flare *(Aug 2025)*
+- **Graphic Designing (Basic)** — Digital's Flare *(Jan 2023)*
+- **Web Designing** — Digital's Flare *(Jan 2023)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OwaisTanoli71&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisTanoli71&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+---
+
+## 📡 Contact
+
+📧 [muhammadowaisarshad721@gmail.com](mailto:muhammadowaisarshad721@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/muhammad-owais-b66353391)
+
+---
+
+## 🛡️ Privacy
+
+I do not publish private datasets, confidential institutional material, or credentials in any repository.
+If you notice sensitive information, please contact me and I will remove it immediately.
